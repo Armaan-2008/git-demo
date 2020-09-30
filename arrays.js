@@ -30,7 +30,7 @@ console.log(numbers);
 // Opdracht 3
 // --------------------------
 
-const figures = [4, 6, 12, 34, 1];
+const figures = [4, 6, 12, 34, 1, 5, 8];
 
 for (let i=0; i < figures.length; i++){
     figures[i] = figures[i]+3;
